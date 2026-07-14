@@ -1,4 +1,7 @@
-# Toutatis
+# Toutatigit clone https://github.com/megadose/toutatis.git
+cd toutatis/
+python3 setup.py install
+s
 👋 Hi there! For any professional inquiries or collaborations, please reach out to me at:
 megadose@protonmail.com
 
