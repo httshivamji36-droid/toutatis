@@ -1,4 +1,6 @@
-# Toutatis
+# Topip install toutat
+u
+utatis
 👋 Hi there! For any professional inquiries or collaborations, please reach out to me at:
 megadose@protonmail.com
 
@@ -7,8 +9,7 @@ megadose@protonmail.com
 Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more </br>
 For BTC Donations : 1FHDM49QfZX6pJmhjLE5tB2K6CaTLMZpXZ
 ## 💡 Prerequisite
-[Python 3](https://www.python.org/downloads/release/python-370/)
-
+pip install toutat
 ## 🛠️ Installation
 ### With PyPI
 
@@ -20,6 +21,7 @@ For BTC Donations : 1FHDM49QfZX6pJmhjLE5tB2K6CaTLMZpXZ
 git clone https://github.com/megadose/toutatis.git
 cd toutatis/
 python3 setup.py install
+
 ```
 
 ## 📚 Usage:
@@ -64,3 +66,6 @@ Profile Picture        : https://scontent-X-X.cdninstagram.com/
 
 - [EyupErgin](https://github.com/eyupergin)
 - [yazeed44](https://github.com/yazeed44)
+pip install toutat
+update
+izz_galxyyy_aa14364
